@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+body { margin: 0; padding: 0; background: #fafafa; }
+h1 { font-size: 22px; margin: 0 0 8px; }
+button { background: #fff; cursor: pointer; }
+button:active { transform: translateY(1px); }
